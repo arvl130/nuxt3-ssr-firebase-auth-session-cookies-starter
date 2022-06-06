@@ -2,7 +2,7 @@
 
 This project is a starter template for Nuxt 3 projects using Firebase Authentication.
 It uses [session cookies](https://firebase.google.com/docs/auth/admin/manage-cookies)
-provided by Firebase to handle authentication and route protection.
+provided by Firebase to handle authorization and route protection.
 
 This solves problems related to ID token expiration when
 [using Firebase's client-side ID tokens](https://github.com/arvl130/nuxt3-ssr-firebase-auth-starter).
